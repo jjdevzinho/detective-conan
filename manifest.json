@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Detective Conan - Identity V - theme",
+  "description": "Detective Conan - Identity V - theme",
+  "version": "1.2",
+  "theme": {
+    "images": {
+      "theme_tab_background": "images/theme_tab_background.png",
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [30, 30, 48],
+      "frame_inactive": [30, 30, 48],
+      "toolbar": [36, 36, 55],
+      "toolbar_inactive": [36, 36, 55],
+      "tab_text": [198, 196, 221],
+      "tab_background_text": [198, 196, 221],
+      "bookmark_text": [198, 196, 221],
+      "ntp_background": [42, 42, 55, 1],
+      "ntp_text": [198, 196, 221],
+      "ntp_link": [198, 196, 221]
+    },
+    "tints": { "buttons": [0.68, 0.27, 0.82] },
+    "properties": {
+      "ntp_background_alignment": "center center",
+      "ntp_background_repeat": "no-repeat",
+      "ntp_logo_alternate": 0
+    }
+  }
+}
